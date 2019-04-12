@@ -8,6 +8,6 @@ public class Main {
         System.out.println(t + 2);
         int z = 2000;
         System.out.println(x + y * z);
-        System.out.println("Somos un sueno imposible que busca la noche para olvidar el tiempo...");
+        System.out.println("salam");
     }
 }
